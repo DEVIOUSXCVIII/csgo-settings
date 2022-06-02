@@ -1,0 +1,1 @@
+clip < ./misc/launch-options.txt
