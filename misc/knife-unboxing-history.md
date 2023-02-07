@@ -1,6 +1,6 @@
-# Unboxed knives
+# Unboxed Knives
 
-## before 2020
+## Before 2020
 
 - Bayonet | Slaughter (MW)
 - Butterfly Knife | Damascus Steel (MW)
@@ -32,3 +32,11 @@
 - Shadow Daggers | Damascus Steel (FT)
 - Falchion Knife | Damascus Steel (BS)
 - Paracord Knife | Crimson Web (FT)
+
+## 2022
+
+- Flip Knife | Blue Steel (MW)
+
+## 2023
+
+- Karambit | Night (BS)
